@@ -9,8 +9,8 @@ int main ()
     cout<<"Enter the value of First Operand:";
     cin >> a;
 
-    cout<<"Enter the value of First Operand:";
-    cin >> a;
+    cout<<"Enter the value of Second Operand:";
+    cin >> b;
 
     cout<<"Enter the Operation you want to perform:";
     cin >> op;
